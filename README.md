@@ -1,6 +1,6 @@
 # <img src="https://github.com/raqssoriano/oracle-db-training/blob/main/oracle/Oracle.png" alt="GCP" width="85" />   Oracle Database Training by Oracle Academy 
 
-- This repository contains my work and documentation related to Oracle Database Training. The training is divided into two main sections: Database Foundations and Database Programming. Throughout the training, I utilized Oracle APEX and Oracle SQL Developer Data Modeler.
+This repository contains my work and documentation related to Oracle Database Training. The training is divided into *two main sections*: **Database Foundations** and **Database Programming**. Throughout the training, I utilized `Oracle APEX` and `Oracle SQL Developer Data Modeler`.
     
 
 
