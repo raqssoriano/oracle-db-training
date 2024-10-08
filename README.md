@@ -2,9 +2,11 @@
 ---
 📚 This repository contains my work and documentation related to Oracle Database Training, which is divided into *two main sections*: **Database Foundations** and **Database Programming**. Throughout the training, I utilized `Oracle APEX` and `Oracle SQL Developer Data Modeler`.
 
-As a current graduate student👩🏻‍💻 and healthcare professional👩🏻‍⚕️, this training exposes me to the real world of health informatics. With each weekly training assignment, the section becomes increasingly challenging, thoroughly testing my knowledge, skills, and application of current and previously studied sections. It can get overwhelming. However, I believe this experience helps me hone my skills and provides a learning opportunity for improvement. This will be instrumental in landing me a job as an MS-AHI graduate with extensive experience in healthcare settings.
+As a current graduate student 👩🏻‍💻 and healthcare professional 👩🏻‍⚕️, this training exposes me to the real world of health informatics. With each weekly training assignment, the section becomes increasingly challenging, thoroughly testing my knowledge, skills, and application of current and previously studied sections. It can get overwhelming. However, I believe this experience helps me hone my skills and provides a learning opportunity for improvement. This will be instrumental in landing me a job as an MS-AHI graduate with extensive experience in healthcare settings.
 
 🎯 This training truly inspires me to do better, motivating me to work and study both harder and smarter.
+
+🔗 Each training section has a link attached to it. Please click on the _**blue text**_.
     
 ---
 ---
