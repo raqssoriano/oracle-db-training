@@ -57,10 +57,10 @@ As a current graduate student 👩🏻‍💻 and healthcare professional 👩�
   - [5-1](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-5) Conversion Functions
   - [5-2](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-5) NULL Functions
   - [5-3](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-5) Conditional Expressions 
-  - 6-1 Cross Joins and Natural Joins
-  - 6-2 Join Clauses
-  - 6-3 Inner versus Outer Joins
-  - 6-4 Self-Joins and Hierarchical Queries
+  - [6-1](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-6) Cross Joins and Natural Joins
+  - [6-2](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-6) Join Clauses
+  - [6-3](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-6) Inner versus Outer Joins
+  - [6-4](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-6) Self-Joins and Hierarchical Queries
   - 7-1 Oracle Equijoin and Cartesian Product
   - 7-2 Oracle Nonequijoins and Outer Joins
   - 8-1 Group Functions
