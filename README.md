@@ -65,9 +65,9 @@ As a current graduate student 👩🏻‍💻 and healthcare professional 👩�
   - [7-2](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-7) Oracle Nonequijoins and Outer Joins
   - [8-1](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-7) Group Functions
   - [8-2](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-7) COUNT, DISTINCT, NVL
-  - 9-1 Using Group By and Having Clauses
-  - 9-2 Using Rollup and Cube Operations, and Grouping Sets
-  - 9-3 Using Set Operators
+  - [9-1](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-8) Using Group By and Having Clauses
+  - [9-2](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-8) Using Rollup and Cube Operations, and Grouping Sets
+  - [9-3](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-8) Using Set Operators
   - 10-1 Fundamentals of Subqueries
   - 10-2 Single-Row Subqueries
   - 10-3 Multiple-Row Subqueries
