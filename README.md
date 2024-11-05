@@ -68,11 +68,11 @@ As a current graduate student 👩🏻‍💻 and healthcare professional 👩�
   - [9-1](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-8) Using Group By and Having Clauses
   - [9-2](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-8) Using Rollup and Cube Operations, and Grouping Sets
   - [9-3](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-8) Using Set Operators
-  - 10-1 Fundamentals of Subqueries
-  - 10-2 Single-Row Subqueries
-  - 10-3 Multiple-Row Subqueries
-  - 10-4 Correlated Subqueries
-  - 11-1 Ensuring Quality Query Results
+  - [10-1](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-9) Fundamentals of Subqueries
+  - [10-2](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-9) Single-Row Subqueries
+  - [10-3](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-9) Multiple-Row Subqueries
+  - [10-4](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-9) Correlated Subqueries
+  - [11-1](https://github.com/raqssoriano/oracle-db-training/tree/main/SQL-week-9) Ensuring Quality Query Results
   - 12-1 INSERT Statements
   - 12-2 Updating Column Values and Deleting Rows
   - 12-3 DEFAULT Values, MERGE, and Multi-Table Inserts
